@@ -1,4 +1,4 @@
-# ZEELUS: Cuidando de quem cuida
+# ZEELUS: Cuidando de quem cuida 
 
 ![Logo do Zeelus](./equipe/zeelus-logo.png)
 
