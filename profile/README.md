@@ -127,13 +127,13 @@ Ser referência em soluções digitais para cuidadores informais, promovendo cui
 
 Conheça as pessoas por trás do Zeelus:
 
-- Andrey Sebastian Justino  
-- Laysla Rayssa Alves dos Santos  
-- Livia Ribeiro Alvarenga  
-- Lucas Padula Alves  
-- Noah Cardozo da Silva  
-- Rudney Lopes de Souza Junior  
-- William Ferreira dos Santos  
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrey-sebastian-justino/) Andrey Sebastian Justino  
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laysla-alves/) Laysla Rayssa Alves dos Santos  
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/livia-alvarenga05/) Livia Ribeiro Alvarenga  
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-padula-alves-b72ba52b6/) Lucas Padula Alves  
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noah-cardozo-714224352/) Noah Cardozo da Silva  
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rudneyjr/) Rudney Lopes de Souza Junior  
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devwilliamferreira/) William Ferreira dos Santos
 
 ---
 
@@ -146,6 +146,8 @@ Conheça as pessoas por trás do Zeelus:
 ## Nossas redes e contatos 
 
 [![E-mail](https://img.icons8.com/fluency/48/email.png)](mailto:zeelus.contato@gmail.com)
+[![Instagram](https://img.icons8.com/fluency/48/instagram-new.png)](https://www.instagram.com/_zeelus/)
+[![LinkedIn](https://img.icons8.com/fluency/48/linkedin.png)](https://www.linkedin.com/company/zeelus)
 
 ---
 
