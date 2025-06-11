@@ -1,12 +1,16 @@
-# ZEELUS: Cuidando de quem cuida 
+# ZEELUS: Cuidando de quem cuida
 
-![Logo do Zeelus](./equipe/zeelus-logo.png)
+<p align="center">
+  <img src="./img/zeelus-logo.png" alt="Logo do Zeelus" width="180"/>
+</p>
 
-## Índice
+---
+
+## 📑 Índice
 
 <details>
-  <summary><strong>Índice</strong></summary>
-	
+  <summary><strong>Clique para expandir</strong></summary>
+
 1. [Objetivo do projeto](#objetivo-do-projeto)
 2. [Tecnologias usadas](#tecnologias-usadas)
 3. [Funcionalidades](#funcionalidades)
@@ -24,24 +28,26 @@
 
 ---
 
-## Objetivo do projeto 
+## 🎯 Objetivo do projeto
 
 Zeelus é uma plataforma digital que visa oferecer suporte e ferramentas essenciais para acompanhantes informais de pessoas atípicas, tornando o ato de cuidar mais leve, humano e organizado. Através de funcionalidades interativas, a solução promove acolhimento, educação e gestão, fortalecendo o elo entre quem cuida e quem é cuidado.
 
 ---
 
-## Tecnologias usadas
+## 🚀 Tecnologias usadas
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+</p>
 
 ---
 
-## Funcionalidades 
+## 🛠️ Funcionalidades
 
 **Autenticação e Conta**
 - Login com e-mail e senha
@@ -68,29 +74,29 @@ Zeelus é uma plataforma digital que visa oferecer suporte e ferramentas essenci
 
 ---
 
-## Missão
+## 💡 Missão
 
 Oferecer suporte e ferramentas essenciais aos acompanhantes informais, tornando a experiência de cuidar mais leve e repleta de empatia. Cuidando assim, de quem cuida.
 
 ---
 
-## Visão
+## 👀 Visão
 
 Ser referência em soluções digitais para cuidadores informais, promovendo cuidado acessível, apoio emocional e capacitação, tornando o ato de cuidar mais digno, humano e eficiente.
 
 ---
 
-## Valores
+## 🌱 Valores
 
-* Empatia  
-* Acolhimento  
-* Conectividade  
-* Inovação  
-* Inclusão  
+- Empatia  
+- Acolhimento  
+- Conectividade  
+- Inovação  
+- Inclusão  
 
 ---
 
-## Próximos passos 
+## 🗺️ Próximos passos
 
 ### Curto prazo
 - [ ] Finalizar MVP funcional e intuitivo
@@ -103,66 +109,73 @@ Ser referência em soluções digitais para cuidadores informais, promovendo cui
 
 ---
 
-## Identidade Visual
+## 🎨 Identidade Visual
 
 **Cores**
----
-| Cor            | Código HEX | Exemplo                                                  |
-|----------------|------------|----------------------------------------------------------|
-| Verde claro    | #a9e5bb    |
-| Off-white      | #f5f3ef    | 
-| Azul lavanda   | #c1c8e4    | 
-| Azul claro     | #98d4e8    | 
-| Verde água     | #d8f2e5    | 
-| Verde escuro   | #5b8e7d    | 
-| Azul profundo  | #004777    | 
+
+| Cor            | Código HEX | Exemplo |
+|----------------|:----------:|:-------:|
+| Verde claro    | `#a9e5bb`  | <span style="background-color:#a9e5bb;padding:8px 24px;display:inline-block;border-radius:4px;"></span> |
+| Off-white      | `#f5f3ef`  | <span style="background-color:#f5f3ef;padding:8px 24px;display:inline-block;border-radius:4px;"></span> |
+| Azul lavanda   | `#c1c8e4`  | <span style="background-color:#c1c8e4;padding:8px 24px;display:inline-block;border-radius:4px;"></span> |
+| Azul claro     | `#98d4e8`  | <span style="background-color:#98d4e8;padding:8px 24px;display:inline-block;border-radius:4px;"></span> |
+| Verde água     | `#d8f2e5`  | <span style="background-color:#d8f2e5;padding:8px 24px;display:inline-block;border-radius:4px;"></span> |
+| Verde escuro   | `#5b8e7d`  | <span style="background-color:#5b8e7d;padding:8px 24px;display:inline-block;border-radius:4px;"></span> |
+| Azul profundo  | `#004777`  | <span style="background-color:#004777;padding:8px 24px;display:inline-block;border-radius:4px;"></span> |
 
 **Tipografia**
----
-* Quicksand: traços arredondados e legíveis, ideal para temas de saúde e bem-estar.
+
+- Quicksand: traços arredondados e legíveis, ideal para temas de saúde e bem-estar.
 
 ---
 
-## Equipe 
+## 👩‍💻 Equipe
 
 Conheça as pessoas por trás do Zeelus:
 
-- <img src="./equipe/andrey.jpg" alt="Andrey Sebastian Justino" width="48" style="vertical-align:middle; border-radius:50%;"/> [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrey-sebastian-justino/) Andrey Sebastian Justino  
-- <img src="./equipe/laysla.jpg" alt="Laysla Rayssa Alves dos Santos" width="48" style="vertical-align:middle; border-radius:50%;"/> [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laysla-alves/) Laysla Rayssa Alves dos Santos  
-- <img src="./equipe/livia.jpg" alt="Livia Ribeiro Alvarenga" width="48" style="vertical-align:middle; border-radius:50%;"/> [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/livia-alvarenga05/) Livia Ribeiro Alvarenga  
-- <img src="./equipe/padula.jpg" alt="Lucas Padula Alves" width="48" style="vertical-align:middle; border-radius:50%;"/> [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-padula-alves-b72ba52b6/) Lucas Padula Alves  
-- <img src="./equipe/noah.jpg" alt="Noah Cardozo da Silva" width="48" style="vertical-align:middle; border-radius:50%;"/> [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noah-cardozo-714224352/) Noah Cardozo da Silva  
-- <img src="./equipe/rudney.jpg" alt="Rudney Lopes de Souza Junior" width="48" style="vertical-align:middle; border-radius:50%;"/> [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rudneyjr/) Rudney Lopes de Souza Junior  
-- <img src="./equipe/will.jpg" alt="William Ferreira dos Santos" width="48" style="vertical-align:middle; border-radius:50%;"/> [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devwilliamferreira/) William Ferreira dos Santos
+<table>
+  <tr>
+    <td align="center"><img src="./equipe/andrey.jpg" width="70" style="border-radius:50%"/><br/><a href="https://www.linkedin.com/in/andrey-sebastian-justino/">Andrey Sebastian Justino</a></td>
+    <td align="center"><img src="./equipe/laysla.jpg" width="70" style="border-radius:50%"/><br/><a href="https://www.linkedin.com/in/laysla-alves/">Laysla Rayssa Alves dos Santos</a></td>
+    <td align="center"><img src="./equipe/livia.jpg" width="70" style="border-radius:50%"/><br/><a href="https://www.linkedin.com/in/livia-alvarenga05/">Livia Ribeiro Alvarenga</a></td>
+    <td align="center"><img src="./equipe/padula.jpg" width="70" style="border-radius:50%"/><br/><a href="https://www.linkedin.com/in/lucas-padula-alves-b72ba52b6/">Lucas Padula Alves</a></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="./equipe/noah.jpg" width="70" style="border-radius:50%"/><br/><a href="https://www.linkedin.com/in/noah-cardozo-714224352/">Noah Cardozo da Silva</a></td>
+    <td align="center"><img src="./equipe/rudney.jpg" width="70" style="border-radius:50%"/><br/><a href="https://www.linkedin.com/in/rudneyjr/">Rudney Lopes de Souza Junior</a></td>
+    <td align="center"><img src="./equipe/will.jpg" width="70" style="border-radius:50%"/><br/><a href="https://www.linkedin.com/in/devwilliamferreira/">William Ferreira dos Santos</a></td>
+    <td></td>
+  </tr>
+</table>
 
 ---
 
-## Links Úteis 
+## 🔗 Links Úteis
 
 📌 [Dossiê Completo]()
 
 ---
 
-## Nossas redes e contatos 
+## 📬 Nossas redes e contatos
 
-[![E-mail](https://img.icons8.com/fluency/48/email.png)](mailto:zeelus.contato@gmail.com)
-[![Instagram](https://img.icons8.com/fluency/48/instagram-new.png)](https://www.instagram.com/_zeelus/)
-[![LinkedIn](https://img.icons8.com/fluency/48/linkedin.png)](https://www.linkedin.com/company/zeelus)
+<p align="center">
+  <a href="mailto:zeelus.contato@gmail.com"><img src="https://img.icons8.com/fluency/48/email.png" width="40"/></a>
+  <a href="https://www.instagram.com/_zeelus/"><img src="https://img.icons8.com/fluency/48/instagram-new.png" width="40"/></a>
+  <a href="https://www.linkedin.com/company/zeelus"><img src="https://img.icons8.com/fluency/48/linkedin.png" width="40"/></a>
+</p>
 
 ---
 
-## Licença 
+## 📄 Licença
 
 Este projeto está licenciado sob a licença MIT.
 
 ---
 
 <!--
-
 **Sobre nós:**
 
 🌟 Plataforma de acolhimento e suporte para cuidadores informais  
 📚 Recursos educativos + ferramentas de organização  
 💬 Comunidade engajada e solidária  
-
 -->
