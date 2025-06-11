@@ -1,7 +1,7 @@
 # ZEELUS: Cuidando de quem cuida
 
 <p align="center">
-  <img src="./img/zeelus-logo.png" alt="Logo do Zeelus" width="180"/>
+  <img src="./img/zeelus-logo.png" alt="Logo do Zeelus"/>
 </p>
 
 ---
@@ -115,13 +115,13 @@ Ser referência em soluções digitais para cuidadores informais, promovendo cui
 
 | Cor            | Código HEX | Exemplo |
 |----------------|:----------:|:-------:|
-| Verde claro    | `#a9e5bb`  | <span style="background-color:#a9e5bb;padding:8px 24px;display:inline-block;border-radius:4px;"></span> |
-| Off-white      | `#f5f3ef`  | <span style="background-color:#f5f3ef;padding:8px 24px;display:inline-block;border-radius:4px;"></span> |
-| Azul lavanda   | `#c1c8e4`  | <span style="background-color:#c1c8e4;padding:8px 24px;display:inline-block;border-radius:4px;"></span> |
-| Azul claro     | `#98d4e8`  | <span style="background-color:#98d4e8;padding:8px 24px;display:inline-block;border-radius:4px;"></span> |
-| Verde água     | `#d8f2e5`  | <span style="background-color:#d8f2e5;padding:8px 24px;display:inline-block;border-radius:4px;"></span> |
-| Verde escuro   | `#5b8e7d`  | <span style="background-color:#5b8e7d;padding:8px 24px;display:inline-block;border-radius:4px;"></span> |
-| Azul profundo  | `#004777`  | <span style="background-color:#004777;padding:8px 24px;display:inline-block;border-radius:4px;"></span> |
+| Verde claro    | `#a9e5bb`  | ![](https://singlecolorimage.com/get/a9e5bb/30x20) |
+| Off-white      | `#f5f3ef`  | ![](https://singlecolorimage.com/get/f5f3ef/30x20) |
+| Azul lavanda   | `#c1c8e4`  | ![](https://singlecolorimage.com/get/c1c8e4/30x20) |
+| Azul claro     | `#98d4e8`  | ![](https://singlecolorimage.com/get/98d4e8/30x20) |
+| Verde água     | `#d8f2e5`  | ![](https://singlecolorimage.com/get/d8f2e5/30x20) |
+| Verde escuro   | `#5b8e7d`  | ![](https://singlecolorimage.com/get/5b8e7d/30x20) |
+| Azul profundo  | `#004777`  | ![](https://singlecolorimage.com/get/004777/30x20) |
 
 **Tipografia**
 
