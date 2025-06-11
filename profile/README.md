@@ -109,13 +109,13 @@ Ser referência em soluções digitais para cuidadores informais, promovendo cui
 ---
 | Cor            | Código HEX | Exemplo                                                  |
 |----------------|------------|----------------------------------------------------------|
-| Verde claro    | #a9e5bb    | ![#a9e5bb](https://via.placeholder.com/15/a9e5bb/a9e5bb) |
-| Off-white      | #f5f3ef    | ![#f5f3ef](https://via.placeholder.com/15/f5f3ef/f5f3ef) |
-| Azul lavanda   | #c1c8e4    | ![#c1c8e4](https://via.placeholder.com/15/c1c8e4/c1c8e4) |
-| Azul claro     | #98d4e8    | ![#98d4e8](https://via.placeholder.com/15/98d4e8/98d4e8) |
-| Verde água     | #d8f2e5    | ![#d8f2e5](https://via.placeholder.com/15/d8f2e5/d8f2e5) |
-| Verde escuro   | #5b8e7d    | ![#5b8e7d](https://via.placeholder.com/15/5b8e7d/5b8e7d) |
-| Azul profundo  | #004777    | ![#004777](https://via.placeholder.com/15/004777/004777) |
+| Verde claro    | #a9e5bb    |
+| Off-white      | #f5f3ef    | 
+| Azul lavanda   | #c1c8e4    | 
+| Azul claro     | #98d4e8    | 
+| Verde água     | #d8f2e5    | 
+| Verde escuro   | #5b8e7d    | 
+| Azul profundo  | #004777    | 
 
 **Tipografia**
 ---
@@ -127,13 +127,13 @@ Ser referência em soluções digitais para cuidadores informais, promovendo cui
 
 Conheça as pessoas por trás do Zeelus:
 
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrey-sebastian-justino/) Andrey Sebastian Justino  
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laysla-alves/) Laysla Rayssa Alves dos Santos  
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/livia-alvarenga05/) Livia Ribeiro Alvarenga  
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-padula-alves-b72ba52b6/) Lucas Padula Alves  
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noah-cardozo-714224352/) Noah Cardozo da Silva  
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rudneyjr/) Rudney Lopes de Souza Junior  
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devwilliamferreira/) William Ferreira dos Santos
+- <img src="./equipe/andrey.jpg" alt="Andrey Sebastian Justino" width="48" style="vertical-align:middle; border-radius:50%;"/> [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrey-sebastian-justino/) Andrey Sebastian Justino  
+- <img src="./equipe/laysla.jpg" alt="Laysla Rayssa Alves dos Santos" width="48" style="vertical-align:middle; border-radius:50%;"/> [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laysla-alves/) Laysla Rayssa Alves dos Santos  
+- <img src="./equipe/livia.jpg" alt="Livia Ribeiro Alvarenga" width="48" style="vertical-align:middle; border-radius:50%;"/> [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/livia-alvarenga05/) Livia Ribeiro Alvarenga  
+- <img src="./equipe/padula.jpg" alt="Lucas Padula Alves" width="48" style="vertical-align:middle; border-radius:50%;"/> [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-padula-alves-b72ba52b6/) Lucas Padula Alves  
+- <img src="./equipe/noah.jpg" alt="Noah Cardozo da Silva" width="48" style="vertical-align:middle; border-radius:50%;"/> [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noah-cardozo-714224352/) Noah Cardozo da Silva  
+- <img src="./equipe/rudney.jpg" alt="Rudney Lopes de Souza Junior" width="48" style="vertical-align:middle; border-radius:50%;"/> [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rudneyjr/) Rudney Lopes de Souza Junior  
+- <img src="./equipe/will.jpg" alt="William Ferreira dos Santos" width="48" style="vertical-align:middle; border-radius:50%;"/> [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devwilliamferreira/) William Ferreira dos Santos
 
 ---
 
