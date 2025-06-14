@@ -133,47 +133,29 @@ Ser referência em soluções digitais para cuidadores informais, promovendo cui
 
 Conheça as pessoas por trás do Zeelus:
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="./equipe/andrey.png" width="70" style="border-radius:50%"/><br/>
-      <a href="https://www.linkedin.com/in/andrey-sebastian-justino/"><strong>Andrey Sebastian Justino</strong></a><br/>
-      <sub>PO e Fullstack</sub>
-    </td>
-    <td align="center">
-      <img src="./equipe/laysla.png" width="70" style="border-radius:50%"/><br/>
-      <a href="https://www.linkedin.com/in/laysla-alves/"><strong>Laysla Rayssa Alves dos Santos</strong></a><br/>
-      <sub>Scrum Master e Front-end</sub>
-    </td>
-    <td align="center">
-      <img src="./equipe/livia.png" width="70" style="border-radius:50%"/><br/>
-      <a href="https://www.linkedin.com/in/livia-alvarenga05/"><strong>Livia Ribeiro Alvarenga</strong></a><br/>
-      <sub>Marketing e Front-end</sub>
-    </td>
-    <td align="center">
-      <img src="./equipe/padula.png" width="70" style="border-radius:50%"/><br/>
-      <a href="https://www.linkedin.com/in/lucas-padula-alves-b72ba52b6/"><strong>Lucas Padula Alves</strong></a><br/>
-      <sub>Database e Back-end</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="./equipe/noah.png" width="70" style="border-radius:50%"/><br/>
-      <a href="https://www.linkedin.com/in/noah-cardozo-714224352/"><strong>Noah Cardozo da Silva</strong></a><br/>
-      <sub>Design e Front-end</sub>
-    </td>
-    <td align="center">
-      <img src="./equipe/rudney.png" width="200" style="border-radius:50%"/><br/>
-      <a href="https://www.linkedin.com/in/rudneyjr/"></a>
-    </td>
-    <td align="center">
-      <img src="./equipe/will.png" width="70" style="border-radius:50%"/><br/>
-      <a href="https://www.linkedin.com/in/devwilliamferreira/"><strong>William Ferreira dos Santos</strong></a><br/>
-      <sub>Full-stack e Design</sub>
-    </td>
-    <td></td>
-  </tr>
-</table>
+<div align='center'>
+  <a href="https://www.linkedin.com/in/andrey-sebastian-justino/" target="_blank">
+    <img src="./equipe/andrey.png" alt="Andrey Sebastian Justino" width="200" style="border-radius:50%"/>
+  </a>
+  <a href="https://www.linkedin.com/in/laysla-alves/" target="_blank">
+    <img src="./equipe/laysla.png" alt="Laysla Alves" width="200" style="border-radius:50%"/>
+  </a>
+  <a href="https://www.linkedin.com/in/livia-alvarenga05/" target="_blank">
+    <img src="./equipe/livia.png" alt="Livia Alvarenga" width="200" style="border-radius:50%"/>
+  </a>
+  <a href="https://www.linkedin.com/in/lucas-padula-alves-b72ba52b6/" target="_blank">
+    <img src="./equipe/padula.png" alt="Lucas Padula Alves" width="200" style="border-radius:50%"/>
+  </a>
+  <a href="https://www.linkedin.com/in/noah-cardozo-714224352/" target="_blank">
+    <img src="./equipe/noah.png" alt="Noah Cardozo" width="200" style="border-radius:50%"/>
+  </a>
+  <a href="https://www.linkedin.com/in/rudneyjr/" target="_blank">
+    <img src="./equipe/rudney.png" alt="Rudney Junior" width="200" style="border-radius:50%"/>
+  </a>
+  <a href="https://www.linkedin.com/in/devwilliamferreira/" target="_blank">
+    <img src="./equipe/will.png" alt="William Ferreira" width="200" style="border-radius:50%"/>
+  </a>
+</div>
 
 ---
 
