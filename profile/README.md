@@ -180,7 +180,7 @@ Conheça as pessoas por trás do Zeelus:
 
 ## 🔗 Links Úteis
 
-📌 [Dossiê Completo]()
+📌 [Dossiê Completo](https://heyzine.com/flip-book/7f11790fcc.html)
 
 ---
 
