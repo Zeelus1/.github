@@ -133,11 +133,6 @@ Ser referência em soluções digitais para cuidadores informais, promovendo cui
 
 Conheça as pessoas por trás do Zeelus:
 
-<style>
-  a img { text-decoration: none !important; }
-  a { text-decoration: none !important; }
-</style>
-
 <div align='center'>
   <a href="https://www.linkedin.com/in/andrey-sebastian-justino/" target="_blank">
     <img src="./equipe/andrey.png" alt="Andrey Sebastian Justino" width="200" style="border-radius:50%"/>
