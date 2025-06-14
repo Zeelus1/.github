@@ -163,7 +163,7 @@ Conheça as pessoas por trás do Zeelus:
       <sub>Design e Front-end</sub>
     </td>
     <td align="center">
-      <img src="./equipe/rudney.png" width="130" style="border-radius:50%"/><br/>
+      <img src="./equipe/rudney.png" width="200" style="border-radius:50%"/><br/>
       <a href="https://www.linkedin.com/in/rudneyjr/"></a>
     </td>
     <td align="center">
